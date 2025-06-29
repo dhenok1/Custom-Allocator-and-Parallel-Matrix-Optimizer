@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <math.h>
 #include <sys/time.h>
-#include "sumdiag.h"
+#include "sumdiag.h" 
 
 double total_points = 0;
 double actual_score = 0;
